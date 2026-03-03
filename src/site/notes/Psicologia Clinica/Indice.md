@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/psicologia-clinica/indice/","noteIcon":""}
+{"dg-publish":true,"permalink":"/psicologia-clinica/indice/","tags":["gardenEntry"],"noteIcon":""}
 ---
 
 ## Disturbi Mentali:

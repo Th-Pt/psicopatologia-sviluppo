@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/psicologia-clinica/teoria-generale-e-concetti-chiave/approccio-categoriale-vs-dimensionale/","noteIcon":""}
+{"dg-publish":true,"permalink":"/psicologia-clinica/teoria-generale-e-concetti-chiave/approccio-categoriale-vs-dimensionale/"}
 ---
 
 #### Limiti dell'approccio categoriale:

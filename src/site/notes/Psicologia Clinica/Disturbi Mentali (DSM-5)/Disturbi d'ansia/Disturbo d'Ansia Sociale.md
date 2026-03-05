@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/psicologia-clinica/disturbi-mentali-dsm-5/disturbi-d-ansia/disturbo-d-ansia-sociale/","noteIcon":""}
+{"dg-publish":true,"permalink":"/psicologia-clinica/disturbi-mentali-dsm-5/disturbi-d-ansia/disturbo-d-ansia-sociale/"}
 ---
 
 E' caratterizzato da **paura intensa e persistente** di essere ***giudicati negativamente in contesti sociali***.

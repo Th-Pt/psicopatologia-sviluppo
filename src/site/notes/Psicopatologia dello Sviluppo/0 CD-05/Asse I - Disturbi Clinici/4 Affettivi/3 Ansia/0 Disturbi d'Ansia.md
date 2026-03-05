@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/psicopatologia-dello-sviluppo/0-cd-05/asse-i-disturbi-clinici/4-affettivi/3-ansia/0-disturbi-d-ansia/","noteIcon":""}
+{"dg-publish":true,"permalink":"/psicopatologia-dello-sviluppo/0-cd-05/asse-i-disturbi-clinici/4-affettivi/3-ansia/0-disturbi-d-ansia/"}
 ---
 
 ### Normale vs Clinico:

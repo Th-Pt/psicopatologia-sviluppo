@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/psicologia-clinica/disturbi-mentali-dsm-5/parafilie/disturbo-feticistico-da-travestitismo/","noteIcon":""}
+{"dg-publish":true,"permalink":"/psicologia-clinica/disturbi-mentali-dsm-5/parafilie/disturbo-feticistico-da-travestitismo/"}
 ---
 
 ## Definizione:

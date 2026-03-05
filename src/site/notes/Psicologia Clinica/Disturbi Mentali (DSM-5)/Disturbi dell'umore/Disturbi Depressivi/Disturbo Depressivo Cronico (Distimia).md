@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/psicologia-clinica/disturbi-mentali-dsm-5/disturbi-dell-umore/disturbi-depressivi/disturbo-depressivo-cronico-distimia/","noteIcon":""}
+{"dg-publish":true,"permalink":"/psicologia-clinica/disturbi-mentali-dsm-5/disturbi-dell-umore/disturbi-depressivi/disturbo-depressivo-cronico-distimia/"}
 ---
 
 ## Diagnosi:

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/psicologia-clinica/disturbi-mentali-dsm-5/doc/disturbi-ossessivo-compulsivi-doc/","noteIcon":""}
+{"dg-publish":true,"permalink":"/psicologia-clinica/disturbi-mentali-dsm-5/doc/disturbi-ossessivo-compulsivi-doc/"}
 ---
 
 ## Definizione:

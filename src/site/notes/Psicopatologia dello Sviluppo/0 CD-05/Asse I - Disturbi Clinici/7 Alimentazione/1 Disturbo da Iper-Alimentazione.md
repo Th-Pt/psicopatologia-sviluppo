@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/psicopatologia-dello-sviluppo/0-cd-05/asse-i-disturbi-clinici/7-alimentazione/1-disturbo-da-iper-alimentazione/","noteIcon":""}
+{"dg-publish":true,"permalink":"/psicopatologia-dello-sviluppo/0-cd-05/asse-i-disturbi-clinici/7-alimentazione/1-disturbo-da-iper-alimentazione/"}
 ---
 
 ### Algoritmo Diagnostico (tutti):

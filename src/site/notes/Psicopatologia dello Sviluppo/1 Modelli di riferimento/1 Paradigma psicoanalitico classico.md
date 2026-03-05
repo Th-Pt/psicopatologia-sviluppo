@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/psicopatologia-dello-sviluppo/1-modelli-di-riferimento/1-paradigma-psicoanalitico-classico/","noteIcon":""}
+{"dg-publish":true,"permalink":"/psicopatologia-dello-sviluppo/1-modelli-di-riferimento/1-paradigma-psicoanalitico-classico/"}
 ---
 
 #### Diventare genitori:

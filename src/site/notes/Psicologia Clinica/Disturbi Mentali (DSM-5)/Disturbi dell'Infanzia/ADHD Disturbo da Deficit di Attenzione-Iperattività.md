@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/psicologia-clinica/disturbi-mentali-dsm-5/disturbi-dell-infanzia/adhd-disturbo-da-deficit-di-attenzione-iperattivita/","noteIcon":""}
+{"dg-publish":true,"permalink":"/psicologia-clinica/disturbi-mentali-dsm-5/disturbi-dell-infanzia/adhd-disturbo-da-deficit-di-attenzione-iperattivita/"}
 ---
 
 ## Definizione:

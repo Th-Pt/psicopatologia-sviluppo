@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/psicopatologia-dello-sviluppo/4-glossario/funzione-riflessiva/","noteIcon":""}
+{"dg-publish":true,"permalink":"/psicopatologia-dello-sviluppo/4-glossario/funzione-riflessiva/"}
 ---
 
 ## Origine:

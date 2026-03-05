@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/psicologia-clinica/disturbi-mentali-dsm-5/sintomi-somatici-e-disturbi-correlati/disturbo-da-sintomi-neurologici-funzionali/","noteIcon":""}
+{"dg-publish":true,"permalink":"/psicologia-clinica/disturbi-mentali-dsm-5/sintomi-somatici-e-disturbi-correlati/disturbo-da-sintomi-neurologici-funzionali/"}
 ---
 
 ## Definizione:

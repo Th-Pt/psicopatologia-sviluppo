@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/psicopatologia-dello-sviluppo/0-cd-05/generale/attaccamento/7-disorganizzazione-dell-attaccamento/","noteIcon":""}
+{"dg-publish":true,"permalink":"/psicopatologia-dello-sviluppo/0-cd-05/generale/attaccamento/7-disorganizzazione-dell-attaccamento/"}
 ---
 
 ### Main - Descrizione:

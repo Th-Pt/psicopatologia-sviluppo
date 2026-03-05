@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/psicologia-clinica/metodologia-e-ricerca/sistemi-dimensionali-vs-categoriali/","noteIcon":""}
+{"dg-publish":true,"permalink":"/psicologia-clinica/metodologia-e-ricerca/sistemi-dimensionali-vs-categoriali/"}
 ---
 
 ## Categoriale:

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/psicologia-clinica/disturbi-mentali-dsm-5/disturbi-d-ansia/disturbo-d-ansia-generalizzata-gad/","noteIcon":""}
+{"dg-publish":true,"permalink":"/psicologia-clinica/disturbi-mentali-dsm-5/disturbi-d-ansia/disturbo-d-ansia-generalizzata-gad/"}
 ---
 
 Disturbo caratterizzato da <u>Preoccupazione cronica e pervasiva</u> anche per eventi quotidiani e banali. E' l'unico disturbo d'ansia in cui il **rimurginio** è il criterio diagnostico.

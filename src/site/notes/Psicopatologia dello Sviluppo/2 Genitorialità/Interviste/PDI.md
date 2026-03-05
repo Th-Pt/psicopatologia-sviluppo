@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/psicopatologia-dello-sviluppo/2-genitorialita/interviste/pdi/","noteIcon":""}
+{"dg-publish":true,"permalink":"/psicopatologia-dello-sviluppo/2-genitorialita/interviste/pdi/"}
 ---
 
 ### Origini concettuali:

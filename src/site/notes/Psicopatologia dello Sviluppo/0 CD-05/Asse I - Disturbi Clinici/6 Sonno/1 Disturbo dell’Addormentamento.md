@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/psicopatologia-dello-sviluppo/0-cd-05/asse-i-disturbi-clinici/6-sonno/1-disturbo-dell-addormentamento/","noteIcon":""}
+{"dg-publish":true,"permalink":"/psicopatologia-dello-sviluppo/0-cd-05/asse-i-disturbi-clinici/6-sonno/1-disturbo-dell-addormentamento/"}
 ---
 
 ### Algoritmo Diagnostico:

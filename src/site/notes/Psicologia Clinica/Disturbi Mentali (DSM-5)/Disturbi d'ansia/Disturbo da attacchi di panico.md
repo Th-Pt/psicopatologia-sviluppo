@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/psicologia-clinica/disturbi-mentali-dsm-5/disturbi-d-ansia/disturbo-da-attacchi-di-panico/","noteIcon":""}
+{"dg-publish":true,"permalink":"/psicologia-clinica/disturbi-mentali-dsm-5/disturbi-d-ansia/disturbo-da-attacchi-di-panico/"}
 ---
 
 Caratterizzato da ***attacchi di panico ricorrenti e inaspettati***, seguiti da ansia anticipatoria.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/psicologia-clinica/teoria-generale-e-concetti-chiave/psicologia-della-salute/","noteIcon":""}
+{"dg-publish":true,"permalink":"/psicologia-clinica/teoria-generale-e-concetti-chiave/psicologia-della-salute/"}
 ---
 
 È la disciplina che studia:

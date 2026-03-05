@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/psicopatologia-dello-sviluppo/0-cd-05/asse-i-disturbi-clinici/4-affettivi/3-ansia/2-disturbo-d-ansia-sociale/","noteIcon":""}
+{"dg-publish":true,"permalink":"/psicopatologia-dello-sviluppo/0-cd-05/asse-i-disturbi-clinici/4-affettivi/3-ansia/2-disturbo-d-ansia-sociale/"}
 ---
 
 ### Algoritmo diagnostico (tutti):

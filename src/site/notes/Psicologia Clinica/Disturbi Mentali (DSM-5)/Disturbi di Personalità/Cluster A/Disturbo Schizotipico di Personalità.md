@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/psicologia-clinica/disturbi-mentali-dsm-5/disturbi-di-personalita/cluster-a/disturbo-schizotipico-di-personalita/","noteIcon":""}
+{"dg-publish":true,"permalink":"/psicologia-clinica/disturbi-mentali-dsm-5/disturbi-di-personalita/cluster-a/disturbo-schizotipico-di-personalita/"}
 ---
 
    ## Definizione:

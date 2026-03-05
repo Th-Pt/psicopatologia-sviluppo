@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/psicopatologia-dello-sviluppo/1-modelli-di-riferimento/2-disturbi-regolazione-e-relazione/","noteIcon":""}
+{"dg-publish":true,"permalink":"/psicopatologia-dello-sviluppo/1-modelli-di-riferimento/2-disturbi-regolazione-e-relazione/"}
 ---
 
 ### Disturbi della regolazione:

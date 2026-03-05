@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/psicologia-clinica/teoria-generale-e-concetti-chiave/definizione-di-disturbo/","noteIcon":""}
+{"dg-publish":true,"permalink":"/psicologia-clinica/teoria-generale-e-concetti-chiave/definizione-di-disturbo/"}
 ---
 

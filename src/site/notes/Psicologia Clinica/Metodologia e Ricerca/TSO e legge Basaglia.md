@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/psicologia-clinica/metodologia-e-ricerca/tso-e-legge-basaglia/","noteIcon":""}
+{"dg-publish":true,"permalink":"/psicologia-clinica/metodologia-e-ricerca/tso-e-legge-basaglia/"}
 ---
 
 Storicamente  

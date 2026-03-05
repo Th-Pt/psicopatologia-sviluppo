@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/psicologia-clinica/disturbi-mentali-dsm-5/parafilie/disturbo-esibizionistico/","noteIcon":""}
+{"dg-publish":true,"permalink":"/psicologia-clinica/disturbi-mentali-dsm-5/parafilie/disturbo-esibizionistico/"}
 ---
 
 ## Definizione:

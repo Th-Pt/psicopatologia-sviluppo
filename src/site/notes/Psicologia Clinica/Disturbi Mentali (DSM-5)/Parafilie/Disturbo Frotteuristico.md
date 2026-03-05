@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/psicologia-clinica/disturbi-mentali-dsm-5/parafilie/disturbo-frotteuristico/","noteIcon":""}
+{"dg-publish":true,"permalink":"/psicologia-clinica/disturbi-mentali-dsm-5/parafilie/disturbo-frotteuristico/"}
 ---
 
 ## Definizione:

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/psicopatologia-dello-sviluppo/0-cd-05/asse-i-disturbi-clinici/3-processazione-sensoriale/3-altro-disturbo-della-processazione-sensoriale/","noteIcon":""}
+{"dg-publish":true,"permalink":"/psicopatologia-dello-sviluppo/0-cd-05/asse-i-disturbi-clinici/3-processazione-sensoriale/3-altro-disturbo-della-processazione-sensoriale/"}
 ---
 
 ### Algoritmo Diagnostico (tutti):

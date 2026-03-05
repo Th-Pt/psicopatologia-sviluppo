@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/psicologia-clinica/disturbi-mentali-dsm-5/disturbi-dell-umore/disturbi-depressivi/disturbo-affettivo-stagionale-sad/","noteIcon":""}
+{"dg-publish":true,"permalink":"/psicologia-clinica/disturbi-mentali-dsm-5/disturbi-dell-umore/disturbi-depressivi/disturbo-affettivo-stagionale-sad/"}
 ---
 
 ## Diagnosi:

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/psicologia-clinica/teoria-generale-e-concetti-chiave/moralita/","noteIcon":""}
+{"dg-publish":true,"permalink":"/psicologia-clinica/teoria-generale-e-concetti-chiave/moralita/"}
 ---
 
 ## Definizione:

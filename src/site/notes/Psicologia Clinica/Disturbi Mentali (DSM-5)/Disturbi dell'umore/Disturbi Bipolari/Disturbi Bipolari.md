@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/psicologia-clinica/disturbi-mentali-dsm-5/disturbi-dell-umore/disturbi-bipolari/disturbi-bipolari/","noteIcon":""}
+{"dg-publish":true,"permalink":"/psicologia-clinica/disturbi-mentali-dsm-5/disturbi-dell-umore/disturbi-bipolari/disturbi-bipolari/"}
 ---
 
 ## Caratteristica principale:

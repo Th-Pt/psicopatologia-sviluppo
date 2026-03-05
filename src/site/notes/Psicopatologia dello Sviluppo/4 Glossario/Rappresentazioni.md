@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/psicopatologia-dello-sviluppo/4-glossario/rappresentazioni/","noteIcon":""}
+{"dg-publish":true,"permalink":"/psicopatologia-dello-sviluppo/4-glossario/rappresentazioni/"}
 ---
 
 ### Definizione:

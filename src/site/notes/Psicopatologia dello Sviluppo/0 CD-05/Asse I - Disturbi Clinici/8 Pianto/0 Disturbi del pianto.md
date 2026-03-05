@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/psicopatologia-dello-sviluppo/0-cd-05/asse-i-disturbi-clinici/8-pianto/0-disturbi-del-pianto/","noteIcon":""}
+{"dg-publish":true,"permalink":"/psicopatologia-dello-sviluppo/0-cd-05/asse-i-disturbi-clinici/8-pianto/0-disturbi-del-pianto/"}
 ---
 
 ### Algoritmo Diagnostico (tutti):

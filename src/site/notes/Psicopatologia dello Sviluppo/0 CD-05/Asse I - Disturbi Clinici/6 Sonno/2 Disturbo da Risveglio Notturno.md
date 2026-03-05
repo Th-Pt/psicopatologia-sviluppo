@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/psicopatologia-dello-sviluppo/0-cd-05/asse-i-disturbi-clinici/6-sonno/2-disturbo-da-risveglio-notturno/","noteIcon":""}
+{"dg-publish":true,"permalink":"/psicopatologia-dello-sviluppo/0-cd-05/asse-i-disturbi-clinici/6-sonno/2-disturbo-da-risveglio-notturno/"}
 ---
 
 ### Algoritmo diagnostico:

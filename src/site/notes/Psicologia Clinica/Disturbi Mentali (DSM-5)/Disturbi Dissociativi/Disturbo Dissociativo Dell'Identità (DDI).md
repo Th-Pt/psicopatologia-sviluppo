@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/psicologia-clinica/disturbi-mentali-dsm-5/disturbi-dissociativi/disturbo-dissociativo-dell-identita-ddi/","noteIcon":""}
+{"dg-publish":true,"permalink":"/psicologia-clinica/disturbi-mentali-dsm-5/disturbi-dissociativi/disturbo-dissociativo-dell-identita-ddi/"}
 ---
 
 ## Descrizione:

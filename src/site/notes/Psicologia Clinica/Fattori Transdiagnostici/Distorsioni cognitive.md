@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/psicologia-clinica/fattori-transdiagnostici/distorsioni-cognitive/","noteIcon":""}
+{"dg-publish":true,"permalink":"/psicologia-clinica/fattori-transdiagnostici/distorsioni-cognitive/"}
 ---
 

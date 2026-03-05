@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/psicologia-clinica/disturbi-mentali-dsm-5/doc/disturbo-da-dismorfismo-corporeo-ddc/","noteIcon":""}
+{"dg-publish":true,"permalink":"/psicologia-clinica/disturbi-mentali-dsm-5/doc/disturbo-da-dismorfismo-corporeo-ddc/"}
 ---
 
 ## Definizione:

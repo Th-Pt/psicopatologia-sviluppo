@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/psicopatologia-dello-sviluppo/4-glossario/internalizzante-ed-esternalizzante/","noteIcon":""}
+{"dg-publish":true,"permalink":"/psicopatologia-dello-sviluppo/4-glossario/internalizzante-ed-esternalizzante/"}
 ---
 
 ### Definizione generale:

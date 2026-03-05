@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/psicopatologia-dello-sviluppo/0-cd-05/generale/attaccamento/3-stili-di-attaccamento/","noteIcon":""}
+{"dg-publish":true,"permalink":"/psicopatologia-dello-sviluppo/0-cd-05/generale/attaccamento/3-stili-di-attaccamento/"}
 ---
 
 ### Comportamenti e Sistemi di Attaccamento

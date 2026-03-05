@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/psicologia-clinica/metodologia-e-ricerca/l-esperimento/","noteIcon":""}
+{"dg-publish":true,"permalink":"/psicologia-clinica/metodologia-e-ricerca/l-esperimento/"}
 ---
 
 È il metodo principale per <u>determinare relazioni causali</u>, e comporta:

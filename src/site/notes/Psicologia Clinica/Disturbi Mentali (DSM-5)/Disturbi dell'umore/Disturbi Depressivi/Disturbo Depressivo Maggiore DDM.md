@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/psicologia-clinica/disturbi-mentali-dsm-5/disturbi-dell-umore/disturbi-depressivi/disturbo-depressivo-maggiore-ddm/","noteIcon":""}
+{"dg-publish":true,"permalink":"/psicologia-clinica/disturbi-mentali-dsm-5/disturbi-dell-umore/disturbi-depressivi/disturbo-depressivo-maggiore-ddm/"}
 ---
 
 ## Descrizione:

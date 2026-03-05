@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/psicopatologia-dello-sviluppo/1-modelli-di-riferimento/0-modelli-di-riferimento/","noteIcon":""}
+{"dg-publish":true,"permalink":"/psicopatologia-dello-sviluppo/1-modelli-di-riferimento/0-modelli-di-riferimento/"}
 ---
 
 ### Developmental Psychopathology:

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/psicologia-clinica/metodologia-e-ricerca/fattori-transdiagnostici/mind-wandering/","noteIcon":""}
+{"dg-publish":true,"permalink":"/psicologia-clinica/metodologia-e-ricerca/fattori-transdiagnostici/mind-wandering/"}
 ---
 
 ## Definizione: 

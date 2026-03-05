@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/psicologia-clinica/disturbi-mentali-dsm-5/parafilie/disturbo-voyeuristico/","noteIcon":""}
+{"dg-publish":true,"permalink":"/psicologia-clinica/disturbi-mentali-dsm-5/parafilie/disturbo-voyeuristico/"}
 ---
 
 ## Definizione:

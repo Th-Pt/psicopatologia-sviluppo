@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/psicopatologia-dello-sviluppo/0-cd-05/generale/sistemi-diagnostici/1-confronto-tra-cd-0-3-r-e-cd-0-5/","noteIcon":""}
+{"dg-publish":true,"permalink":"/psicopatologia-dello-sviluppo/0-cd-05/generale/sistemi-diagnostici/1-confronto-tra-cd-0-3-r-e-cd-0-5/"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/psicopatologia-dello-sviluppo/0-cd-05/asse-i-disturbi-clinici/9-trauma-stress-deprivazione/deprivazione/0-disturbi-dell-attaccamento/","noteIcon":""}
+{"dg-publish":true,"permalink":"/psicopatologia-dello-sviluppo/0-cd-05/asse-i-disturbi-clinici/9-trauma-stress-deprivazione/deprivazione/0-disturbi-dell-attaccamento/"}
 ---
 
 ### Quadro generale:

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/psicologia-clinica/metodologia-e-ricerca/metodo-correlazionale/","noteIcon":""}
+{"dg-publish":true,"permalink":"/psicologia-clinica/metodologia-e-ricerca/metodo-correlazionale/"}
 ---
 
 ## Definizione:

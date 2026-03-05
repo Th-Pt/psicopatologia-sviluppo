@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/psicopatologia-dello-sviluppo/0-cd-05/generale/attaccamento/6-attaccamento-insicuro-c-resistente/","noteIcon":""}
+{"dg-publish":true,"permalink":"/psicopatologia-dello-sviluppo/0-cd-05/generale/attaccamento/6-attaccamento-insicuro-c-resistente/"}
 ---
 
 ### Descrizione:

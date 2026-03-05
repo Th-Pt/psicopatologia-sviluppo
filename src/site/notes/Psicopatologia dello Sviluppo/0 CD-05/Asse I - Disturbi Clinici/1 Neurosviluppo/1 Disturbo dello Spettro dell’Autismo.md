@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/psicopatologia-dello-sviluppo/0-cd-05/asse-i-disturbi-clinici/1-neurosviluppo/1-disturbo-dello-spettro-dell-autismo/","noteIcon":""}
+{"dg-publish":true,"permalink":"/psicopatologia-dello-sviluppo/0-cd-05/asse-i-disturbi-clinici/1-neurosviluppo/1-disturbo-dello-spettro-dell-autismo/"}
 ---
 
 ## Autism [[Dispense - Libri/Note Varie/CD-05/Neurosviluppo/Spettro\|Spectrum]] Disorder ASD:

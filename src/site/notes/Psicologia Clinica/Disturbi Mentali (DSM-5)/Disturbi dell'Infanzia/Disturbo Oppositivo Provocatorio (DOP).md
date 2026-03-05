@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/psicologia-clinica/disturbi-mentali-dsm-5/disturbi-dell-infanzia/disturbo-oppositivo-provocatorio-dop/","noteIcon":""}
+{"dg-publish":true,"permalink":"/psicologia-clinica/disturbi-mentali-dsm-5/disturbi-dell-infanzia/disturbo-oppositivo-provocatorio-dop/"}
 ---
 
 ## Definizione:

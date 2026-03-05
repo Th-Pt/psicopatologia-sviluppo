@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/psicologia-clinica/disturbi-mentali-dsm-5/abuso-di-sostanze/disturbo-da-uso-di-tabacco/","noteIcon":""}
+{"dg-publish":true,"permalink":"/psicologia-clinica/disturbi-mentali-dsm-5/abuso-di-sostanze/disturbo-da-uso-di-tabacco/"}
 ---
 
 - **Nicotina**: causa principale, provoca dipendenza

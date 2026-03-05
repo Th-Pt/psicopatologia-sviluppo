@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/psicologia-clinica/disturbi-mentali-dsm-5/abuso-di-sostanze/disturbo-da-uso-di-allucinogeni/","noteIcon":""}
+{"dg-publish":true,"permalink":"/psicologia-clinica/disturbi-mentali-dsm-5/abuso-di-sostanze/disturbo-da-uso-di-allucinogeni/"}
 ---
 
 ## LSD :

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/psicopatologia-dello-sviluppo/0-cd-05/asse-i-disturbi-clinici/7-alimentazione/3-disturbo-da-alimentazione-atipica/","noteIcon":""}
+{"dg-publish":true,"permalink":"/psicopatologia-dello-sviluppo/0-cd-05/asse-i-disturbi-clinici/7-alimentazione/3-disturbo-da-alimentazione-atipica/"}
 ---
 
 ### Algoritmo diagnostico (tutti):

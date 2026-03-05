@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/psicologia-clinica/disturbi-mentali-dsm-5/disturbi-dell-umore/caratteristiche-generali-disturbi-dell-umore/","noteIcon":""}
+{"dg-publish":true,"permalink":"/psicologia-clinica/disturbi-mentali-dsm-5/disturbi-dell-umore/caratteristiche-generali-disturbi-dell-umore/"}
 ---
 
 ## Definizione e Classificazione Generale

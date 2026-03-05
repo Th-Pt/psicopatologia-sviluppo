@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/psicologia-clinica/disturbi-mentali-dsm-5/abuso-di-sostanze/disturbo-da-uso-di-cannabis/","noteIcon":""}
+{"dg-publish":true,"permalink":"/psicologia-clinica/disturbi-mentali-dsm-5/abuso-di-sostanze/disturbo-da-uso-di-cannabis/"}
 ---
 
 - **Delta 9 THC**: effetti negativi (ansia, psicosi, deficit memoria)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/psicologia-clinica/disturbi-mentali-dsm-5/abuso-di-sostanze/disturbo-da-uso-di-alcol/","noteIcon":""}
+{"dg-publish":true,"permalink":"/psicologia-clinica/disturbi-mentali-dsm-5/abuso-di-sostanze/disturbo-da-uso-di-alcol/"}
 ---
 
 - **Poliabuso**

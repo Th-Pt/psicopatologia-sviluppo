@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/psicopatologia-dello-sviluppo/0-cd-05/generale/attaccamento/1-cos-e-un-legame-di-attaccamento/","noteIcon":""}
+{"dg-publish":true,"permalink":"/psicopatologia-dello-sviluppo/0-cd-05/generale/attaccamento/1-cos-e-un-legame-di-attaccamento/"}
 ---
 
 ### Caratteristiche dei legami affettivi ([[Autori dinamici vari/Bowlby/Mary Ainsworth\|Mary Ainsworth]]):

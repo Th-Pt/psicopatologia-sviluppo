@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/psicopatologia-dello-sviluppo/2-genitorialita/2-attaccamento-e-genitorialita/","noteIcon":""}
+{"dg-publish":true,"permalink":"/psicopatologia-dello-sviluppo/2-genitorialita/2-attaccamento-e-genitorialita/"}
 ---
 
 ### Il contributo dell’attaccamento:

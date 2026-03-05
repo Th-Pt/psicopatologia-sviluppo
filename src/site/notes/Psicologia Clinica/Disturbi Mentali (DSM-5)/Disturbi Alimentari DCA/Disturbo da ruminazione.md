@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/psicologia-clinica/disturbi-mentali-dsm-5/disturbi-alimentari-dca/disturbo-da-ruminazione/","noteIcon":""}
+{"dg-publish":true,"permalink":"/psicologia-clinica/disturbi-mentali-dsm-5/disturbi-alimentari-dca/disturbo-da-ruminazione/"}
 ---
 
 ## Descrizione:

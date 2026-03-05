@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/psicologia-clinica/disturbi-mentali-dsm-5/doc/disturbo-da-accumulo-hoarding/","noteIcon":""}
+{"dg-publish":true,"permalink":"/psicologia-clinica/disturbi-mentali-dsm-5/doc/disturbo-da-accumulo-hoarding/"}
 ---
 
 ## Definizione:

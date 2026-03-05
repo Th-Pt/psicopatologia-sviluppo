@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/psicologia-clinica/disturbi-mentali-dsm-5/disturbi-d-ansia/agorafobia/","noteIcon":""}
+{"dg-publish":true,"permalink":"/psicologia-clinica/disturbi-mentali-dsm-5/disturbi-d-ansia/agorafobia/"}
 ---
 
 Paura di trovarsi in luoghi o situazioni in cui potrebbe essere difficile fuggire in caso di ansia acuta.

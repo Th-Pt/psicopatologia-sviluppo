@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/psicopatologia-dello-sviluppo/0-cd-05/generale/attaccamento/5-attaccamento-insicuro-evitante-a/","noteIcon":""}
+{"dg-publish":true,"permalink":"/psicopatologia-dello-sviluppo/0-cd-05/generale/attaccamento/5-attaccamento-insicuro-evitante-a/"}
 ---
 
 ### Descrizione:

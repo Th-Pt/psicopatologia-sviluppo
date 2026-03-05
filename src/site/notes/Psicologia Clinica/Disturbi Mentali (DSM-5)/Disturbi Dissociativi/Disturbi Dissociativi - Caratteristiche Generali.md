@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/psicologia-clinica/disturbi-mentali-dsm-5/disturbi-dissociativi/disturbi-dissociativi-caratteristiche-generali/","noteIcon":""}
+{"dg-publish":true,"permalink":"/psicologia-clinica/disturbi-mentali-dsm-5/disturbi-dissociativi/disturbi-dissociativi-caratteristiche-generali/"}
 ---
 
 ## Definizione:

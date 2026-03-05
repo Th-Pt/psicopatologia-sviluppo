@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/psicologia-clinica/fattori-transdiagnostici/pensiero-intrusivo-e-ripetitivo/","noteIcon":""}
+{"dg-publish":true,"permalink":"/psicologia-clinica/fattori-transdiagnostici/pensiero-intrusivo-e-ripetitivo/"}
 ---
 
 Si distingue in:

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/psicopatologia-dello-sviluppo/0-cd-05/generale/attaccamento/4-modello-di-attaccamento-sicuro-b/","noteIcon":""}
+{"dg-publish":true,"permalink":"/psicopatologia-dello-sviluppo/0-cd-05/generale/attaccamento/4-modello-di-attaccamento-sicuro-b/"}
 ---
 
 ### Descrizione

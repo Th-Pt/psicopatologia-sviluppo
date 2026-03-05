@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/psicopatologia-dello-sviluppo/2-genitorialita/interviste/irmag-irman/","noteIcon":""}
+{"dg-publish":true,"permalink":"/psicopatologia-dello-sviluppo/2-genitorialita/interviste/irmag-irman/"}
 ---
 
 ## Intervista sulle rappresentazioni materne in gravidanza.:

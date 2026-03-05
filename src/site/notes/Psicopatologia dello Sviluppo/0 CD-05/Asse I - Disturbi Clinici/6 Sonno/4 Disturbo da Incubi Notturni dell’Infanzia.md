@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/psicopatologia-dello-sviluppo/0-cd-05/asse-i-disturbi-clinici/6-sonno/4-disturbo-da-incubi-notturni-dell-infanzia/","noteIcon":""}
+{"dg-publish":true,"permalink":"/psicopatologia-dello-sviluppo/0-cd-05/asse-i-disturbi-clinici/6-sonno/4-disturbo-da-incubi-notturni-dell-infanzia/"}
 ---
 
 ## Definizione:

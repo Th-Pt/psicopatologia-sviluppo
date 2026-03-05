@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/psicologia-clinica/disturbi-mentali-dsm-5/disturbi-d-ansia/disturbi-d-ansia-caratteristiche-generali/","noteIcon":""}
+{"dg-publish":true,"permalink":"/psicologia-clinica/disturbi-mentali-dsm-5/disturbi-d-ansia/disturbi-d-ansia-caratteristiche-generali/"}
 ---
 
 Condividono ***livelli d'ansia e/o paura eccessivi*** per intensità, durata o frequenza. 

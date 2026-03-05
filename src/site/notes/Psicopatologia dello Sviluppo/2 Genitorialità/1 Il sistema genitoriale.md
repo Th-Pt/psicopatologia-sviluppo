@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/psicopatologia-dello-sviluppo/2-genitorialita/1-il-sistema-genitoriale/","noteIcon":""}
+{"dg-publish":true,"permalink":"/psicopatologia-dello-sviluppo/2-genitorialita/1-il-sistema-genitoriale/"}
 ---
 
 ### Lo studio:

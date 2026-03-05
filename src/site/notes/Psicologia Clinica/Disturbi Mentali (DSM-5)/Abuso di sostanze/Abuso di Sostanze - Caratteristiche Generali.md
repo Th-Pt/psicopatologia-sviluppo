@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/psicologia-clinica/disturbi-mentali-dsm-5/abuso-di-sostanze/abuso-di-sostanze-caratteristiche-generali/","noteIcon":""}
+{"dg-publish":true,"permalink":"/psicologia-clinica/disturbi-mentali-dsm-5/abuso-di-sostanze/abuso-di-sostanze-caratteristiche-generali/"}
 ---
 
 ## Definizione:

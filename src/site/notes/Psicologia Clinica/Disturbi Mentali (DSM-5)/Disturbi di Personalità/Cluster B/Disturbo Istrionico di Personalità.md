@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/psicologia-clinica/disturbi-mentali-dsm-5/disturbi-di-personalita/cluster-b/disturbo-istrionico-di-personalita/","noteIcon":""}
+{"dg-publish":true,"permalink":"/psicologia-clinica/disturbi-mentali-dsm-5/disturbi-di-personalita/cluster-b/disturbo-istrionico-di-personalita/"}
 ---
 
 ## Diagnosi:

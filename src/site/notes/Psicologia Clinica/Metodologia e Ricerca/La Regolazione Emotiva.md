@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/psicologia-clinica/metodologia-e-ricerca/la-regolazione-emotiva/","noteIcon":""}
+{"dg-publish":true,"permalink":"/psicologia-clinica/metodologia-e-ricerca/la-regolazione-emotiva/"}
 ---
 
 I problemi emozionali sono centrali a molte psicopatologie, ma non sempre è chiaro cosa implichino. Un’emozione disfunzionale può derivare da:

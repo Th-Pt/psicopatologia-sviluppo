@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/psicopatologia-dello-sviluppo/0-cd-05/asse-i-disturbi-clinici/4-affettivi/4-umore/0-disturbi-dell-umore/","noteIcon":""}
+{"dg-publish":true,"permalink":"/psicopatologia-dello-sviluppo/0-cd-05/asse-i-disturbi-clinici/4-affettivi/4-umore/0-disturbi-dell-umore/"}
 ---
 
 ### Cornice:

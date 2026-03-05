@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/psicopatologia-dello-sviluppo/0-cd-05/asse-i-disturbi-clinici/9-trauma-stress-deprivazione/stress-e-trauma/0-modello-del-trauma-psicopatologia-sviluppo/","noteIcon":""}
+{"dg-publish":true,"permalink":"/psicopatologia-dello-sviluppo/0-cd-05/asse-i-disturbi-clinici/9-trauma-stress-deprivazione/stress-e-trauma/0-modello-del-trauma-psicopatologia-sviluppo/"}
 ---
 
 ### Definizione di Stress psicologico:

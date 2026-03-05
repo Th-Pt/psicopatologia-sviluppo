@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/psicopatologia-dello-sviluppo/0-cd-05/asse-i-disturbi-clinici/1-neurosviluppo/2-disturbo-dello-spettro-dell-autismo-atipico-precoce/","noteIcon":""}
+{"dg-publish":true,"permalink":"/psicopatologia-dello-sviluppo/0-cd-05/asse-i-disturbi-clinici/1-neurosviluppo/2-disturbo-dello-spettro-dell-autismo-atipico-precoce/"}
 ---
 
 ## Disturbo [[Dispense - Libri/Note Varie/CD-05/Neurosviluppo/Spettro\|Spettro]] Autismo atipico precoce:

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/psicologia-clinica/disturbi-mentali-dsm-5/disturbi-dell-umore/disturbi-bipolari/disturbo-ciclotimico-ciclotimia/","noteIcon":""}
+{"dg-publish":true,"permalink":"/psicologia-clinica/disturbi-mentali-dsm-5/disturbi-dell-umore/disturbi-bipolari/disturbo-ciclotimico-ciclotimia/"}
 ---
 
 ## Caratteristiche:

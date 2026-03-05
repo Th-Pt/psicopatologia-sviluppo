@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/psicopatologia-dello-sviluppo/0-cd-05/asse-i-disturbi-clinici/7-alimentazione/2-disturbo-da-ipo-alimentazione/","noteIcon":""}
+{"dg-publish":true,"permalink":"/psicopatologia-dello-sviluppo/0-cd-05/asse-i-disturbi-clinici/7-alimentazione/2-disturbo-da-ipo-alimentazione/"}
 ---
 
 ### Algoritmo Diagnostico (tutti):

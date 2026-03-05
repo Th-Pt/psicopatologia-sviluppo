@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/psicopatologia-dello-sviluppo/0-cd-05/generale/sistemi-diagnostici/3-logica-evolutiva-relazione-seconda-infanzia-personalita/","noteIcon":""}
+{"dg-publish":true,"permalink":"/psicopatologia-dello-sviluppo/0-cd-05/generale/sistemi-diagnostici/3-logica-evolutiva-relazione-seconda-infanzia-personalita/"}
 ---
 
 ## Centralità dei parametri lungo lo sviluppo:

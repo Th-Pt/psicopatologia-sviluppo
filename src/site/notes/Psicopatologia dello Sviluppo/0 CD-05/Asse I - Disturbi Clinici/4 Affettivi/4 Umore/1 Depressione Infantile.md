@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/psicopatologia-dello-sviluppo/0-cd-05/asse-i-disturbi-clinici/4-affettivi/4-umore/1-depressione-infantile/","noteIcon":""}
+{"dg-publish":true,"permalink":"/psicopatologia-dello-sviluppo/0-cd-05/asse-i-disturbi-clinici/4-affettivi/4-umore/1-depressione-infantile/"}
 ---
 
 ### Algoritmo diagnostico (tutti):

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/psicopatologia-dello-sviluppo/0-cd-05/generale/attaccamento/0-attaccamento/","noteIcon":""}
+{"dg-publish":true,"permalink":"/psicopatologia-dello-sviluppo/0-cd-05/generale/attaccamento/0-attaccamento/"}
 ---
 
 ### [[Autori dinamici vari/Joseph Lichtenberg\|Sistemi Motivazionali]]:

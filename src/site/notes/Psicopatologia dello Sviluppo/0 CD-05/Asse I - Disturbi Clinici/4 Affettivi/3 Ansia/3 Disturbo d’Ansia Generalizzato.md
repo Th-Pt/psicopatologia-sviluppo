@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/psicopatologia-dello-sviluppo/0-cd-05/asse-i-disturbi-clinici/4-affettivi/3-ansia/3-disturbo-d-ansia-generalizzato/","noteIcon":""}
+{"dg-publish":true,"permalink":"/psicopatologia-dello-sviluppo/0-cd-05/asse-i-disturbi-clinici/4-affettivi/3-ansia/3-disturbo-d-ansia-generalizzato/"}
 ---
 
 ### Algoritmo diagnostico (tutti):

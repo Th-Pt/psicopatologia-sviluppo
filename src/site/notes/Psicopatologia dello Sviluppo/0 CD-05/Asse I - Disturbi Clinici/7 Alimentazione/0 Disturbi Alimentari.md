@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/psicopatologia-dello-sviluppo/0-cd-05/asse-i-disturbi-clinici/7-alimentazione/0-disturbi-alimentari/","noteIcon":""}
+{"dg-publish":true,"permalink":"/psicopatologia-dello-sviluppo/0-cd-05/asse-i-disturbi-clinici/7-alimentazione/0-disturbi-alimentari/"}
 ---
 
 ### Importanza clinicamente dell’alimentazione:

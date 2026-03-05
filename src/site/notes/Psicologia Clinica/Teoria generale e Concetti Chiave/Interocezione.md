@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/psicologia-clinica/teoria-generale-e-concetti-chiave/interocezione/","noteIcon":""}
+{"dg-publish":true,"permalink":"/psicologia-clinica/teoria-generale-e-concetti-chiave/interocezione/"}
 ---
 
 ## Definizione:

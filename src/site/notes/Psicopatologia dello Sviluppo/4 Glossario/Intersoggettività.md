@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/psicopatologia-dello-sviluppo/4-glossario/intersoggettivita/","noteIcon":""}
+{"dg-publish":true,"permalink":"/psicopatologia-dello-sviluppo/4-glossario/intersoggettivita/"}
 ---
 
 ## Intersoggettività:

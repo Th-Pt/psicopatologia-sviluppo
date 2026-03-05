@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/psicologia-clinica/disturbi-mentali-dsm-5/disturbi-dell-umore/disturbi-bipolari/disturbo-bipolare-tipo-i-e-ii/","noteIcon":""}
+{"dg-publish":true,"permalink":"/psicologia-clinica/disturbi-mentali-dsm-5/disturbi-dell-umore/disturbi-bipolari/disturbo-bipolare-tipo-i-e-ii/"}
 ---
 
 ## Tipo I

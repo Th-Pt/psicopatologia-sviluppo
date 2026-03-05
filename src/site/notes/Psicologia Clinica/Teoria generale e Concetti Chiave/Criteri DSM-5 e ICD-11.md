@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/psicologia-clinica/teoria-generale-e-concetti-chiave/criteri-dsm-5-e-icd-11/","noteIcon":""}
+{"dg-publish":true,"permalink":"/psicologia-clinica/teoria-generale-e-concetti-chiave/criteri-dsm-5-e-icd-11/"}
 ---
 
 ## I 2 principali Sistemi di Classificazione:

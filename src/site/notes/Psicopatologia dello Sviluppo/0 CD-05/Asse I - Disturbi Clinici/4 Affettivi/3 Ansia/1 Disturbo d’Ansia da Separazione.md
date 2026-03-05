@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/psicopatologia-dello-sviluppo/0-cd-05/asse-i-disturbi-clinici/4-affettivi/3-ansia/1-disturbo-d-ansia-da-separazione/","noteIcon":""}
+{"dg-publish":true,"permalink":"/psicopatologia-dello-sviluppo/0-cd-05/asse-i-disturbi-clinici/4-affettivi/3-ansia/1-disturbo-d-ansia-da-separazione/"}
 ---
 
 ### Definizione:

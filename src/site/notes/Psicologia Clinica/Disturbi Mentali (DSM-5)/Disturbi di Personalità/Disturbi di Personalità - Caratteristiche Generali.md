@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/psicologia-clinica/disturbi-mentali-dsm-5/disturbi-di-personalita/disturbi-di-personalita-caratteristiche-generali/","noteIcon":""}
+{"dg-publish":true,"permalink":"/psicologia-clinica/disturbi-mentali-dsm-5/disturbi-di-personalita/disturbi-di-personalita-caratteristiche-generali/"}
 ---
 
 ## Definizione: 

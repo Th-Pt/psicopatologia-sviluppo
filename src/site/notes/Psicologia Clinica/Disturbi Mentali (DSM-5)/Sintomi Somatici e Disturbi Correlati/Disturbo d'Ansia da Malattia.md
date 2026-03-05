@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/psicologia-clinica/disturbi-mentali-dsm-5/sintomi-somatici-e-disturbi-correlati/disturbo-d-ansia-da-malattia/","noteIcon":""}
+{"dg-publish":true,"permalink":"/psicologia-clinica/disturbi-mentali-dsm-5/sintomi-somatici-e-disturbi-correlati/disturbo-d-ansia-da-malattia/"}
 ---
 
 ## Diagnosi:

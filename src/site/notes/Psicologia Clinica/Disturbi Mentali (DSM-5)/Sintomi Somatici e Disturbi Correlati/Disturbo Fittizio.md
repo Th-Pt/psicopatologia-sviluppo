@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/psicologia-clinica/disturbi-mentali-dsm-5/sintomi-somatici-e-disturbi-correlati/disturbo-fittizio/","noteIcon":""}
+{"dg-publish":true,"permalink":"/psicologia-clinica/disturbi-mentali-dsm-5/sintomi-somatici-e-disturbi-correlati/disturbo-fittizio/"}
 ---
 
 ## Definizione:

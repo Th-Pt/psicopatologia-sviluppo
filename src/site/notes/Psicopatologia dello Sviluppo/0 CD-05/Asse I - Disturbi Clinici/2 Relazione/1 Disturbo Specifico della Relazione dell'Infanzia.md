@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/psicopatologia-dello-sviluppo/0-cd-05/asse-i-disturbi-clinici/2-relazione/1-disturbo-specifico-della-relazione-dell-infanzia/","noteIcon":""}
+{"dg-publish":true,"permalink":"/psicopatologia-dello-sviluppo/0-cd-05/asse-i-disturbi-clinici/2-relazione/1-disturbo-specifico-della-relazione-dell-infanzia/"}
 ---
 
 ## Definizione:

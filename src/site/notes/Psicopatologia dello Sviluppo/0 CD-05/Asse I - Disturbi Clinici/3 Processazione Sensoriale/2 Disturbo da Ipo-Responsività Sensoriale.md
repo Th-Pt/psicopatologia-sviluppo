@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/psicopatologia-dello-sviluppo/0-cd-05/asse-i-disturbi-clinici/3-processazione-sensoriale/2-disturbo-da-ipo-responsivita-sensoriale/","noteIcon":""}
+{"dg-publish":true,"permalink":"/psicopatologia-dello-sviluppo/0-cd-05/asse-i-disturbi-clinici/3-processazione-sensoriale/2-disturbo-da-ipo-responsivita-sensoriale/"}
 ---
 
 ### Algoritmo Diagnostico (Tutti):

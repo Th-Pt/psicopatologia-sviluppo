@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/psicopatologia-dello-sviluppo/0-cd-05/generale/sistemi-diagnostici/0-sistemi-diagnostici/","noteIcon":""}
+{"dg-publish":true,"permalink":"/psicopatologia-dello-sviluppo/0-cd-05/generale/sistemi-diagnostici/0-sistemi-diagnostici/"}
 ---
 
 ## Definizioni e Precisazioni:

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/psicologia-clinica/disturbi-mentali-dsm-5/disturbi-della-schizofrenia/disturbo-schizoaffettivo/","noteIcon":""}
+{"dg-publish":true,"permalink":"/psicologia-clinica/disturbi-mentali-dsm-5/disturbi-della-schizofrenia/disturbo-schizoaffettivo/"}
 ---
 
 ## Definizione:

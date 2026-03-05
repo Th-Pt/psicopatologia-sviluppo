@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/psicopatologia-dello-sviluppo/0-cd-05/generale/sistemi-diagnostici/2-logica-delle-classificazioni/","noteIcon":""}
+{"dg-publish":true,"permalink":"/psicopatologia-dello-sviluppo/0-cd-05/generale/sistemi-diagnostici/2-logica-delle-classificazioni/"}
 ---
 
 ## [[Psicopatologia dello Sviluppo/0 CD-05/Generale/Sistemi Diagnostici/1 Confronto tra CD 0-3R e CD 0-5#^97c45f\|CD-03R]]:

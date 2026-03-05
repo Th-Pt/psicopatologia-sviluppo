@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/psicologia-clinica/assertivita/","noteIcon":""}
+{"dg-publish":true,"permalink":"/psicologia-clinica/assertivita/"}
 ---
 
 ## Definizione:

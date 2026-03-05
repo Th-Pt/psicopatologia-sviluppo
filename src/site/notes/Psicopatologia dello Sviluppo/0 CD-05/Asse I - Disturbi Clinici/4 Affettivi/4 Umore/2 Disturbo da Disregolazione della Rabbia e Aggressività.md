@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/psicopatologia-dello-sviluppo/0-cd-05/asse-i-disturbi-clinici/4-affettivi/4-umore/2-disturbo-da-disregolazione-della-rabbia-e-aggressivita/","noteIcon":""}
+{"dg-publish":true,"permalink":"/psicopatologia-dello-sviluppo/0-cd-05/asse-i-disturbi-clinici/4-affettivi/4-umore/2-disturbo-da-disregolazione-della-rabbia-e-aggressivita/"}
 ---
 
 ### Descrizione:

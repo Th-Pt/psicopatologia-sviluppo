@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/psicopatologia-dello-sviluppo/2-genitorialita/0-gravidanza-e-maternita/","noteIcon":""}
+{"dg-publish":true,"permalink":"/psicopatologia-dello-sviluppo/2-genitorialita/0-gravidanza-e-maternita/"}
 ---
 
 ## La nascita psicologica della madre:
